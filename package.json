@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "name": "BeachballTest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
+  "devDependencies": {
+    "beachball": "2.31.2"
+  }
+}

@@ -1,0 +1,10 @@
+{
+    "name": "@rn/foo",
+    "description": "foo",
+    "license": "UNLICENSED",
+    "version": "0.0.1",
+    "main": "index.js",
+    "dependencies": {
+        "@rn/bar": "*"
+    }
+}
