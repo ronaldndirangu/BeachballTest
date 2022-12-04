@@ -9,6 +9,9 @@
       "packages/*"
     ]
   },
+  "scripts": {
+    "change": "beachball change --since HEAD"
+  },
   "devDependencies": {
     "beachball": "2.31.2"
   }
