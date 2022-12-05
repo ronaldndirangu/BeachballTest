@@ -1,4 +1,3 @@
 module.exports = {
-  branch: "origin/main",
-  shouldPublish: false
+  branch: "origin/main"
 };

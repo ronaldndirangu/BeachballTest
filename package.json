@@ -14,7 +14,7 @@
     ]
   },
   "scripts": {
-    "change": "beachball change --since HEAD"
+    "change": "beachball change --since HEAD --no-fetch"
   },
   "devDependencies": {
     "beachball": "2.31.2"
