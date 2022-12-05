@@ -1,0 +1,7 @@
+{
+  "type": "major",
+  "comment": "Add add function",
+  "packageName": "@rn/foo",
+  "email": "rnjuguna@microsoft.com",
+  "dependentChangeType": "patch"
+}
