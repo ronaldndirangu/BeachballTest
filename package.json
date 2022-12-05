@@ -4,13 +4,17 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ronaldndirangu/BeachballTest.git"
+  },
   "workspaces": {
     "packages": [
       "packages/*"
     ]
   },
   "scripts": {
-    "change": "beachball change --since HEAD"
+    "change": "beachball change --since HEAD --no-fetch"
   },
   "devDependencies": {
     "beachball": "2.31.2"
