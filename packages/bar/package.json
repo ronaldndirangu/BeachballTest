@@ -1,10 +1,13 @@
 {
-    "name": "@rn/bar",
-    "description": "bar",
-    "license": "UNLICENSED",
-    "version": "0.0.1",
-    "main": "index.js",
-    "peerDependencies": {
-        "@rn/foo": "*"
-    }
+  "name": "@rn/bar",
+  "description": "bar",
+  "license": "UNLICENSED",
+  "version": "0.0.1",
+  "main": "index.js",
+  "dependencies": {
+    "@rn/foo": "*"
+  },
+  "peerDependencies": {
+    "@rn/foo": "*"
+  }
 }

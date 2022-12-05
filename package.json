@@ -14,9 +14,11 @@
     ]
   },
   "scripts": {
-    "change": "beachball change --since HEAD --no-fetch"
+    "change": "beachball change --since HEAD --no-fetch",
+    "replace-stars": "set-semver-version replace-stars --verbose"
   },
   "devDependencies": {
+    "@rn/semver-tools": "*",
     "beachball": "2.31.2"
   }
 }
