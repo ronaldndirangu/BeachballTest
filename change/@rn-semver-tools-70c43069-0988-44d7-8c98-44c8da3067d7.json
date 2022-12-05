@@ -1,0 +1,7 @@
+{
+  "type": "patch",
+  "comment": "Fix semver tools",
+  "packageName": "@rn/semver-tools",
+  "email": "rnjuguna@microsoft.com",
+  "dependentChangeType": "patch"
+}
