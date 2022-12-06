@@ -5,6 +5,10 @@
   "version": "0.0.1",
   "main": "index.js",
   "dependencies": {
-    "@rn/bar": "*"
+    "@rn/bar": "*",
+    "@rn/zoo": "*"
+  },
+  "peerDependencies": {
+    "@rn/zoo": "*"
   }
 }

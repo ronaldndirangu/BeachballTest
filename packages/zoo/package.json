@@ -1,11 +1,10 @@
 {
-  "name": "@rn/bar",
-  "description": "bar",
+  "name": "@rn/zoo",
+  "description": "zoo",
   "license": "UNLICENSED",
   "version": "0.0.1",
   "main": "index.js",
   "dependencies": {
-    "@rn/foo": "*",
-    "@rn/zoo": "*"
+    "lodash": "^4.17.15"
   }
 }
