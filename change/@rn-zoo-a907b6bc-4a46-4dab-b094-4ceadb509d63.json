@@ -1,0 +1,7 @@
+{
+  "type": "minor",
+  "comment": "Add zoo package",
+  "packageName": "@rn/zoo",
+  "email": "rnjuguna@microsoft.com",
+  "dependentChangeType": "patch"
+}
